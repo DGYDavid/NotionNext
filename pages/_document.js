@@ -13,6 +13,7 @@ class MyDocument extends Document {
     return (
             <Html lang={BLOG.LANG}>
                 <Head>
+                <meta name="baidu-site-verification" content="codeva-Lzx87m9ErO" />
                 <link rel='icon' href= {`${BLOG.BLOG_FAVICON}`} />
                   <CommonScript />
                   {/* 预加载字体 */}
